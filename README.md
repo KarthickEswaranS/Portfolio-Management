@@ -1,3 +1,7 @@
+# PORTFOLIO MANAGEMENT
+Portfolio management is the process of selecting, organizing, monitoring, and adjusting investments to achieve specific financial goals while managing risk.
+
+
 # PCA-Based Portfolio Risk Analysis
 
 ## Overview
