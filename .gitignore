@@ -1,13 +1,13 @@
-# Virtual environment
-myvenv/
+# Jupyter Notebook checkpoints, autosaves, and virtual docs
+.ipynb_checkpoints/
+.virtual_documents/
+**/.ipynb_checkpoints/
+**/.virtual_documents/
+
+# Virtual environments
+venv/
 .venv/
 env/
-
-.virtual_documents/
-
-# Jupyter Notebook checkpoints & autosaves
-.ipynb_checkpoints/
-*/.ipynb_checkpoints/
 
 # Python cache files
 __pycache__/
