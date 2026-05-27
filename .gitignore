@@ -1,17 +1,27 @@
-# Jupyter Notebook checkpoints, autosaves, and virtual docs
+# Jupyter Notebook checkpoints
 .ipynb_checkpoints/
+
+# Virtual notebook files
 .virtual_documents/
-**/.ipynb_checkpoints/
-**/.virtual_documents/
+
+# Ignore collected datasets
+src/collected_data/
+
+# Ignore all CSV files
+*.csv
 
 # Virtual environments
 venv/
 .venv/
 env/
 
-# Python cache files
+# Python cache
 __pycache__/
 *.pyc
 
-# Local environment variables
+# Environment variables
 .env
+
+# OS files
+.DS_Store
+Thumbs.db
