@@ -6,6 +6,7 @@
 
 # Ignore collected datasets
 src/collected_data/
+src/*.ipynb
 
 # Ignore all CSV files
 *.csv
